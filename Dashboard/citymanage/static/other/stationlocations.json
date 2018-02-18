@@ -1,0 +1,614 @@
+[
+  {
+    "No": 1,
+    "Name": "CHATHAM STREET",
+    "Latitude": 53.340962,
+    "Longitude": -6.262287
+  },
+  {
+    "No": 2,
+    "Name": "BLESSINGTON STREET",
+    "Latitude": 53.356769,
+    "Longitude": -6.26814
+  },
+  {
+    "No": 3,
+    "Name": "BOLTON STREET",
+    "Latitude": 53.351182,
+    "Longitude": -6.269859
+  },
+  {
+    "No": 4,
+    "Name": "GREEK STREET",
+    "Latitude": 53.346874,
+    "Longitude": -6.272976
+  },
+  {
+    "No": 5,
+    "Name": "CHARLEMONT PLACE",
+    "Latitude": 53.330662,
+    "Longitude": -6.260177
+  },
+  {
+    "No": 6,
+    "Name": "CHRISTCHURCH PLACE",
+    "Latitude": 53.343368,
+    "Longitude": -6.27012
+  },
+  {
+    "No": 7,
+    "Name": "HIGH STREET",
+    "Latitude": 53.343565,
+    "Longitude": -6.275071
+  },
+  {
+    "No": 8,
+    "Name": "CUSTOM HOUSE QUAY",
+    "Latitude": 53.347884,
+    "Longitude": -6.248048
+  },
+  {
+    "No": 9,
+    "Name": "EXCHEQUER STREET",
+    "Latitude": 53.343034,
+    "Longitude": -6.263578
+  },
+  {
+    "No": 10,
+    "Name": "DAME STREET",
+    "Latitude": 53.344007,
+    "Longitude": -6.266802
+  },
+  {
+    "No": 11,
+    "Name": "EARLSFORT TERRACE",
+    "Latitude": 53.334019,
+    "Longitude": -6.258371
+  },
+  {
+    "No": 12,
+    "Name": "ECCLES STREET",
+    "Latitude": 53.359246,
+    "Longitude": -6.269779
+  },
+  {
+    "No": 13,
+    "Name": "FITZWILLIAM SQUARE WEST",
+    "Latitude": 53.336074,
+    "Longitude": -6.252825
+  },
+  {
+    "No": 14,
+    "Name": "FOWNES STREET UPPER",
+    "Latitude": 53.344603,
+    "Longitude": -6.263371
+  },
+  {
+    "No": 15,
+    "Name": "HARDWICKE STREET",
+    "Latitude": 53.355473,
+    "Longitude": -6.264423
+  },
+  {
+    "No": 16,
+    "Name": "GEORGES QUAY",
+    "Latitude": 53.347508,
+    "Longitude": -6.252192
+  },
+  {
+    "No": 17,
+    "Name": "GOLDEN LANE",
+    "Latitude": 53.340803,
+    "Longitude": -6.267732
+  },
+  {
+    "No": 18,
+    "Name": "GRANTHAM STREET",
+    "Latitude": 53.334123,
+    "Longitude": -6.265436
+  },
+  {
+    "No": 19,
+    "Name": "HERBERT PLACE",
+    "Latitude": 53.334432,
+    "Longitude": -6.245575
+  },
+  {
+    "No": 20,
+    "Name": "JAMES STREET EAST",
+    "Latitude": 53.336485,
+    "Longitude": -6.248174
+  },
+  {
+    "No": 21,
+    "Name": "LEINSTER STREET SOUTH",
+    "Latitude": 53.34218,
+    "Longitude": -6.254485
+  },
+  {
+    "No": 22,
+    "Name": "TOWNSEND STREET",
+    "Latitude": 53.345922,
+    "Longitude": -6.254614
+  },
+  {
+    "No": 23,
+    "Name": "CUSTOM HOUSE",
+    "Latitude": 53.348279,
+    "Longitude": -6.254662
+  },
+  {
+    "No": 24,
+    "Name": "CATHAL BRUGHA STREET",
+    "Latitude": 53.352149,
+    "Longitude": -6.260533
+  },
+  {
+    "No": 25,
+    "Name": "MERRION SQUARE EAST",
+    "Latitude": 53.339434,
+    "Longitude": -6.246548
+  },
+  {
+    "No": 26,
+    "Name": "MERRION SQUARE WEST",
+    "Latitude": 53.339764,
+    "Longitude": -6.251988
+  },
+  {
+    "No": 27,
+    "Name": "MOLESWORTH STREET",
+    "Latitude": 53.341288,
+    "Longitude": -6.258117
+  },
+  {
+    "No": 28,
+    "Name": "MOUNTJOY SQUARE WEST",
+    "Latitude": 53.356299,
+    "Longitude": -6.258586
+  },
+  {
+    "No": 29,
+    "Name": "ORMOND QUAY UPPER",
+    "Latitude": 53.346057,
+    "Longitude": -6.268001
+  },
+  {
+    "No": 30,
+    "Name": "PARNELL SQUARE NORTH",
+    "Latitude": 53.353462,
+    "Longitude": -6.265305
+  },
+  {
+    "No": 31,
+    "Name": "PARNELL STREET",
+    "Latitude": 53.350929,
+    "Longitude": -6.265125
+  },
+  {
+    "No": 32,
+    "Name": "PEARSE STREET",
+    "Latitude": 53.344304,
+    "Longitude": -6.250427
+  },
+  {
+    "No": 33,
+    "Name": "PRINCES STREET / O'CONNELL STREET",
+    "Latitude": 53.349013,
+    "Longitude": -6.260311
+  },
+  {
+    "No": 34,
+    "Name": "PORTOBELLO HARBOUR",
+    "Latitude": 53.330362,
+    "Longitude": -6.265163
+  },
+  {
+    "No": 35,
+    "Name": "SMITHFIELD",
+    "Latitude": 53.347692,
+    "Longitude": -6.278214
+  },
+  {
+    "No": 36,
+    "Name": "ST. STEPHEN'S GREEN EAST",
+    "Latitude": 53.337824,
+    "Longitude": -6.256035
+  },
+  {
+    "No": 37,
+    "Name": "ST. STEPHEN'S GREEN SOUTH",
+    "Latitude": 53.337494,
+    "Longitude": -6.26199
+  },
+  {
+    "No": 38,
+    "Name": "TALBOT STREET",
+    "Latitude": 53.350974,
+    "Longitude": -6.25294
+  },
+  {
+    "No": 39,
+    "Name": "WILTON TERRACE",
+    "Latitude": 53.332383,
+    "Longitude": -6.252717
+  },
+  {
+    "No": 40,
+    "Name": "JERVIS STREET",
+    "Latitude": 53.3483,
+    "Longitude": -6.266651
+  },
+  {
+    "No": 41,
+    "Name": "HARCOURT TERRACE",
+    "Latitude": 53.332763,
+    "Longitude": -6.257942
+  },
+  {
+    "No": 42,
+    "Name": "SMITHFIELD NORTH",
+    "Latitude": 53.349562,
+    "Longitude": -6.278198
+  },
+  {
+    "No": 43,
+    "Name": "PORTOBELLO ROAD",
+    "Latitude": 53.330091,
+    "Longitude": -6.268044
+  },
+  {
+    "No": 44,
+    "Name": "UPPER SHERRARD STREET",
+    "Latitude": 53.358437,
+    "Longitude": -6.260641
+  },
+  {
+    "No": 45,
+    "Name": "DEVERELL PLACE",
+    "Latitude": 53.351464,
+    "Longitude": -6.255265
+  },
+  {
+    "No": 46,
+    "Name": "STRAND STREET GREAT",
+    "Latitude": 53.347082,
+    "Longitude": -6.264192
+  },
+  {
+    "No": 47,
+    "Name": "Station number not yet assigned",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "No": 48,
+    "Name": "EXCISE WALK",
+    "Latitude": 53.347777,
+    "Longitude": -6.244239
+  },
+  {
+    "No": 49,
+    "Name": "GUILD STREET",
+    "Latitude": 53.347932,
+    "Longitude": -6.240928
+  },
+  {
+    "No": 50,
+    "Name": "Station number not yet assigned",
+    "Latitude": "",
+    "Longitude": ""
+  },
+  {
+    "No": 51,
+    "Name": "YORK STREET WEST",
+    "Latitude": 53.339334,
+    "Longitude": -6.264699
+  },
+  {
+    "No": 52,
+    "Name": "YORK STREET EAST",
+    "Latitude": 53.338755,
+    "Longitude": -6.262003
+  },
+  {
+    "No": 53,
+    "Name": "NEWMAN HOUSE",
+    "Latitude": 53.337132,
+    "Longitude": -6.26059
+  },
+  {
+    "No": 54,
+    "Name": "CLONMEL STREET",
+    "Latitude": 53.336021,
+    "Longitude": -6.26298
+  },
+  {
+    "No": 55,
+    "Name": "HATCH STREET",
+    "Latitude": 53.33403,
+    "Longitude": -6.260714
+  },
+  {
+    "No": 56,
+    "Name": "MOUNT STREET LOWER",
+    "Latitude": 53.33796,
+    "Longitude": -6.24153
+  },
+  {
+    "No": 57,
+    "Name": "GRATTAN STREET",
+    "Latitude": 53.339629,
+    "Longitude": -6.243778
+  },
+  {
+    "No": 58,
+    "Name": "SIR PATRICK DUN'S",
+    "Latitude": 53.339218,
+    "Longitude": -6.240642
+  },
+  {
+    "No": 59,
+    "Name": "DENMARK STREET GREAT",
+    "Latitude": 53.35561,
+    "Longitude": -6.261397
+  },
+  {
+    "No": 60,
+    "Name": "NORTH CIRCULAR ROAD",
+    "Latitude": 53.359624,
+    "Longitude": -6.260348
+  },
+  {
+    "No": 61,
+    "Name": "HARDWICKE PLACE",
+    "Latitude": 53.357043,
+    "Longitude": -6.263232
+  },
+  {
+    "No": 62,
+    "Name": "LIME STREET",
+    "Latitude": 53.346026,
+    "Longitude": -6.243576
+  },
+  {
+    "No": 63,
+    "Name": "FENIAN STREET",
+    "Latitude": 53.341428,
+    "Longitude": -6.24672
+  },
+  {
+    "No": 64,
+    "Name": "SANDWITH STREET",
+    "Latitude": 53.345203,
+    "Longitude": -6.247163
+  },
+  {
+    "No": 65,
+    "Name": "CONVENTION CENTRE",
+    "Latitude": 53.34744,
+    "Longitude": -6.238523
+  },
+  {
+    "No": 66,
+    "Name": "NEW CENTRAL BANK",
+    "Latitude": 53.347122,
+    "Longitude": -6.234749
+  },
+  {
+    "No": 67,
+    "Name": "THE POINT",
+    "Latitude": 53.346867,
+    "Longitude": -6.230852
+  },
+  {
+    "No": 68,
+    "Name": "HANOVER QUAY",
+    "Latitude": 53.344115,
+    "Longitude": -6.237153
+  },
+  {
+    "No": 69,
+    "Name": "GRAND CANAL DOCK",
+    "Latitude": 53.342638,
+    "Longitude": -6.238695
+  },
+  {
+    "No": 70,
+    "Name": "BARROW STREET",
+    "Latitude": 53.341655,
+    "Longitude": -6.236198
+  },
+  {
+    "No": 71,
+    "Name": "KEVIN STREET",
+    "Latitude": 53.337757,
+    "Longitude": -6.267699
+  },
+  {
+    "No": 72,
+    "Name": "JOHN STREET WEST",
+    "Latitude": 53.343105,
+    "Longitude": -6.277167
+  },
+  {
+    "No": 73,
+    "Name": "FRANCIS STREET",
+    "Latitude": 53.342081,
+    "Longitude": -6.275233
+  },
+  {
+    "No": 74,
+    "Name": "OLIVER BOND STREET",
+    "Latitude": 53.343893,
+    "Longitude": -6.280531
+  },
+  {
+    "No": 75,
+    "Name": "JAMES STREET",
+    "Latitude": 53.343456,
+    "Longitude": -6.287409
+  },
+  {
+    "No": 76,
+    "Name": "MARKET STREET SOUTH",
+    "Latitude": 53.342296,
+    "Longitude": -6.287661
+  },
+  {
+    "No": 77,
+    "Name": "WOLFE TONE STREET",
+    "Latitude": 53.348875,
+    "Longitude": -6.267459
+  },
+  {
+    "No": 78,
+    "Name": "MATER HOSPITAL",
+    "Latitude": 53.359967,
+    "Longitude": -6.264828
+  },
+  {
+    "No": 79,
+    "Name": "ECCLES STREET EAST",
+    "Latitude": 53.358115,
+    "Longitude": -6.265601
+  },
+  {
+    "No": 80,
+    "Name": "ST. JAMES HOSPITAL (LUAS)",
+    "Latitude": 53.341359,
+    "Longitude": -6.292951
+  },
+  {
+    "No": 81,
+    "Name": "ST. JAMES HOSPITAL (CENTRAL)",
+    "Latitude": 53.339983,
+    "Longitude": -6.295594
+  },
+  {
+    "No": 82,
+    "Name": "MOUNT BROWN",
+    "Latitude": 53.341645,
+    "Longitude": -6.29719
+  },
+  {
+    "No": 83,
+    "Name": "EMMET ROAD",
+    "Latitude": 53.340714,
+    "Longitude": -6.308191
+  },
+  {
+    "No": 84,
+    "Name": "BROOKFIELD ROAD",
+    "Latitude": 53.339005,
+    "Longitude": -6.300217
+  },
+  {
+    "No": 85,
+    "Name": "ROTHE ABBEY",
+    "Latitude": 53.338776,
+    "Longitude": -6.30395
+  },
+  {
+    "No": 86,
+    "Name": "PARKGATE STREET",
+    "Latitude": 53.347972,
+    "Longitude": -6.291804
+  },
+  {
+    "No": 87,
+    "Name": "COLLINS BARRACKS MUSEUM",
+    "Latitude": 53.347477,
+    "Longitude": -6.28525
+  },
+  {
+    "No": 88,
+    "Name": "BLACKHALL PLACE",
+    "Latitude": 53.3488,
+    "Longitude": -6.281637
+  },
+  {
+    "No": 89,
+    "Name": "FITZWILLIAM SQUARE EAST",
+    "Latitude": 53.335211,
+    "Longitude": -6.2509
+  },
+  {
+    "No": 90,
+    "Name": "BENSON STREET",
+    "Latitude": 53.344153,
+    "Longitude": -6.233451
+  },
+  {
+    "No": 91,
+    "Name": "SOUTH DOCK ROAD",
+    "Latitude": 53.341833,
+    "Longitude": -6.231291
+  },
+  {
+    "No": 92,
+    "Name": "HEUSTON BRIDGE (NORTH)",
+    "Latitude": 53.347802,
+    "Longitude": -6.292432
+  },
+  {
+    "No": 93,
+    "Name": "HEUSTON STATION (CENTRAL)",
+    "Latitude": 53.346603,
+    "Longitude": -6.296924
+  },
+  {
+    "No": 94,
+    "Name": "HEUSTON STATION (CAR PARK)",
+    "Latitude": 53.346985,
+    "Longitude": -6.297804
+  },
+  {
+    "No": 95,
+    "Name": "ROYAL HOSPITAL",
+    "Latitude": 53.343897,
+    "Longitude": -6.29706
+  },
+  {
+    "No": 96,
+    "Name": "KILMAINHAM LANE",
+    "Latitude": 53.341805,
+    "Longitude": -6.305085
+  },
+  {
+    "No": 97,
+    "Name": "KILMAINHAM GAOL",
+    "Latitude": 53.342113,
+    "Longitude": -6.310015
+  },
+  {
+    "No": 98,
+    "Name": "FREDERICK STREET SOUTH",
+    "Latitude": 53.341515,
+    "Longitude": -6.256853
+  },
+  {
+    "No": 99,
+    "Name": "CITY QUAY",
+    "Latitude": 53.346637,
+    "Longitude": -6.246154
+  },
+  {
+    "No": 100,
+    "Name": "HEUSTON BRIDGE (SOUTH)",
+    "Latitude": 53.347106,
+    "Longitude": -6.292041
+  },
+  {
+    "No": 101,
+    "Name": "KING STREET NORTH",
+    "Latitude": 53.350291,
+    "Longitude": -6.273507
+  },
+  {
+    "No": 102,
+    "Name": "WESTERN WAY",
+    "Latitude": 53.354929,
+    "Longitude": -6.269425
+  }
+]
