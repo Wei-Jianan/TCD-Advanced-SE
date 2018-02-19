@@ -11,7 +11,7 @@ def login(request):
     if request.method == "POST":
         username = request.POST.get('email', None)
         password = request.POST.get('password', None)
-        print(username, password,)
+        print(username, password, )
 
         return render(request, 'dashboard.html')
 

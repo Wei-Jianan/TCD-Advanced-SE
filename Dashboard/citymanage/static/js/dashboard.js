@@ -1,12 +1,12 @@
 window.onload = function initMap() {
 
-    var stations_locations = new Array([]);
+    var stationsLocations = new Array([]);
 
     $(document).ready(function () {
 
         $.getJSON("/templates/other/stationlocations.json", function (result) {
             $.each(result, function (i, line) {
-                stations_locations[i] = [
+                stationsLocations[i] = [
                     line.No,
                     line.Name,
                     line.Latitude,
@@ -16,40 +16,40 @@ window.onload = function initMap() {
         });
 
     });
-    var my_place = {
+    var phoenixHouseLocation = {
         lat: 53.342067,
         lng: -6.251720
     };
 
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 15,
-        center: my_place
+        center: phoenixHouseLocation
     });
 
     setTimeout(function () {
-        for (var i = 0; i < stations_locations.length; i++) {
+        for (var i = 0; i < stationsLocations.length; i++) {
             var contentString = '<div id="content">' +
                 '<div id="siteNotice">' +
                 '</div>' +
                 '<h1 id="firstHeading" class="firstHeading">' +
                 'No. ' +
-                stations_locations[i][0] +
+                stationsLocations[i][0] +
                 '<br>' +
-                stations_locations[i][1] +
+                stationsLocations[i][1] +
                 '</h1>';
 
-            var info_window = new google.maps.InfoWindow({});
+            var infoWindow = new google.maps.InfoWindow({});
 
             marker = new google.maps.Marker({
-                position: new google.maps.LatLng(stations_locations[i][2], stations_locations[i][3]),
+                position: new google.maps.LatLng(stationsLocations[i][2], stationsLocations[i][3]),
                 map: map,
-                title: stations_locations[i][1],
+                title: stationsLocations[i][1],
                 contentString: contentString
             });
 
             marker.addListener('click', function () {
-                info_window.setContent(this.contentString);
-                info_window.open(map, this);
+                infoWindow.setContent(this.contentString);
+                infoWindow.open(map, this);
                 map.panTo(this.getPosition())
             })
         }
