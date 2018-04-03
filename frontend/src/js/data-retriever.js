@@ -1,6 +1,6 @@
 'use strict'
 
-const URL = 'http://127.0.0.1:8000/api/'
+const URL = 'http://127.0.0.1:80/api/'
 const FETCH_INTERVAL = 1000 * 180
 
 export default class DataRetriever {

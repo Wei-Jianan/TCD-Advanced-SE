@@ -8,7 +8,7 @@ BIKE_API = 'https://api.jcdecaux.com/vls/v1/stations?contract=Dublin&apiKey=64a2
 BUS_API_STATIC = 'http://data.dublinked.ie/cgi-bin/rtpi/busstopinformation?stopid=&format=json'
 BUS_API_REALTIME_TEMPLATE = 'https://data.dublinked.ie/cgi-bin/rtpi/realtimebusinformation?stopid={}&format=json'
 STOPS_ID = []
-MIN_ROUTE_TO_FILTER = 5
+MIN_ROUTE_TO_FILTER = 10
 r = redis.StrictRedis(host='redis', port=6379, db=0)  # TODO change it back to redis
 TIME_FOR_SLEEP = 180
 

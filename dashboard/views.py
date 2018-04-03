@@ -4,7 +4,7 @@ from django.http import HttpResponse, HttpResponseBadRequest
 from django.views.decorators.http import require_http_methods
 import redis
 
-__cache = redis.StrictRedis(host='127.0.0.1', port=6379)
+__cache = redis.StrictRedis(host='redis', port=6379)
 
 
 @login_required
@@ -29,6 +29,7 @@ def bus_realtime(request):
     from_redis = __cache.get('BUS_REALTIME')
     str_ = from_redis.decode('utf-8') if from_redis else ''
     if not str_:
+        # return HttpResponse(str_, content_type='application/json')
         return HttpResponseBadRequest()
     return HttpResponse(str_, content_type='application/json')
 
